@@ -1,0 +1,520 @@
+body{
+    background-color: rgb(84 100 51);
+    font-family:  Arial, Helvetica, sans-serif;
+    overflow-x:hidden
+}
+.top{
+    width: 96%;
+    background-color: white;
+    height: 160px;
+    position: relative;
+    left: 28px;
+    top: -7px;
+}
+#logoimage{
+    margin-left: 10px;
+    height: 75px;
+    margin-top: 10px;
+}
+.top-box{
+    border-radius: 14px;
+    width: 35%;
+    height: 85px;
+    border: solid 2px;
+    background-color: #fffce0;
+    border-color: #e2bb56;
+    position: relative;
+    left: 30rem;
+    bottom: 5rem;
+}
+#top-text-box{
+    text-decoration: none;
+    color: #444;
+    font-size: 13px;
+    position: relative;
+    left: 9px;
+}
+#More{
+    color: black;
+    font-weight: 600;
+
+}
+#number{
+    position: relative;
+    left: 67rem;
+    bottom: 141px;
+    height: 65px;
+}
+.nav-container{
+    background-color: green;
+    width: 96%;
+    height: 40px;
+    position: relative;
+    left: 28px;
+    bottom: 24px;
+    border-bottom: solid 1px #e4c170;
+
+}
+ul li{
+    display: inline;
+}
+.nav-content2{
+    width: 70%;
+    height: 40px;
+   
+}
+.home-div{
+    width: 100px;
+    height: 40px;
+    position: relative;
+    right: 40px;
+    border-right: dotted 1px;
+}
+.lists{
+    position: relative;
+    top: 7px;
+    left: 23px;
+    font-size: 14px;
+}
+.nav-content2 a{
+    text-decoration: none;
+    color: #ffff;
+}
+.Munnar-div{
+    width: 96px;
+    height: 40px;
+    border-right: dotted 1px;
+    position: relative;
+    left: 60px;
+    bottom: 38px;
+}
+.hostel-div{
+    width: 155px;
+    height: 40px;
+    border-right: dotted 1px;
+    position: relative;
+    left: 157px;
+    bottom: 80px
+}
+.resourts-div{
+    width: 164px;
+    height: 40px;
+    border-right: dotted 1px;
+    position: relative;
+    left: 313px;
+    bottom: 120px;
+}
+.homestay-div{
+    width: 183px;
+    height: 40px;
+    border-right: dotted 1px;
+    position: relative;
+    left: 478px;
+    bottom: 160px
+}
+.tour-div{
+    width: 135px;
+    height: 40px;
+    border-right: dotted 1px;
+    position: relative;
+    left: 662px;
+    bottom: 200px;
+}
+.contact-div{
+    width: 110px;
+    height: 40px;
+    border-right: dotted 1px;
+    position: relative;
+    left: 794px;
+    bottom: 240px;
+}
+#hove:hover{
+    color: #e2bb56;
+}
+.first-container{
+    width: 96%;
+    background-color: white;
+    height: 300px;
+    position: relative;
+    left: 28px;
+    top: -23px;
+
+}
+.main-div{
+    display: flex;
+}
+
+.first-div{
+    background-color: rgb(255, 255, 255);
+    width: 16%;
+    height: 280px;
+    position: relative;
+    left: 28px;
+}
+.first-div-1{
+    width: 202px;
+    background-color: white;
+    height: 277px;
+    position: relative;
+    left: 5px;
+}
+#image{
+    margin-top: 30px;
+}
+.image-text-1{
+    width: 202px;
+    height: 47px;
+    background-color: #f4fad3;
+}
+#imagetext1{
+    text-decoration: none;
+    color: green;
+    font-weight: 600;
+    position: relative;
+    left: 33px;
+    top: 10px;
+}
+.first-green-line{
+    width: 203px;
+    height: 20px;
+    background-color: green;
+    position: relative;
+    top: 5px;
+    
+}
+.first-div:hover{
+    opacity: 0.8;
+}
+.second-container{
+    width: 96%;
+    background-color: white;
+    height: 122rem;
+    position: relative;
+    left: 28px;
+    top: -43px;
+}
+.second-container h2{
+    color: green;
+    position: relative;
+    top: 20px;
+    left: 35px;
+    font-weight: 100;
+}
+.first-content{    height: 275px;
+width: 935px;
+}
+.st-img{
+    position: relative;
+    top: 20px;
+    left: 35px;
+}
+.about-munnar{
+    position: relative;
+    left: 335px;
+    bottom: 175px;
+    width: 580px
+
+    
+}
+.para-1{
+    font-weight: 600;
+    font-size: 13px;
+    text-align: justify;
+    line-height: 20px;
+}
+.para-2{
+    font-size: 12.8px;
+    text-align: justify;
+    line-height: 20px;
+}
+#para-2-a{
+    text-decoration: none;
+    color: #e99004;
+}
+.second-content{    height: 730px;
+    width: 935px;
+    position: relative;
+    bottom: 30px
+}
+.package-div{
+    background-color: rgb(255, 255, 255);
+    width: 267.77px;
+    height: 286.6px;
+    position: relative;
+    left: 35px;
+    top: 20px; 
+    border: ridge 1px
+}
+.head-div{
+    height: 25px;
+    width: 267.77px;
+    background-color: #f7f5f5;;
+}
+#package-link-i{
+    color: red;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 5px;
+}
+#package-img{
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+.package-content{
+    font-size: 12px;
+    text-align: justify;
+    line-height: 20px;
+    padding: 5px
+}
+.package-button{
+    border-radius: 5px;
+    border: none;
+    background-color: #e60041;
+    color: white;
+    margin-left: 10px;
+}
+.main-package{
+    display: flex;
+    height:330px;
+    justify-content: space-between;
+    width: 875px
+    
+}
+
+.third-content{
+       height: 550px;
+        width: 935px;
+        position: relative;
+        bottom: 80px
+}
+.third-places{
+    height: 150px;
+    width: 935px;
+    display: flex;
+}
+.third-place-content{
+    width: 425px;
+    height: 130px;
+    background-color: #ffffff;
+    margin-left: 35px;
+    position: relative;
+    top: 15px;
+}
+#marayoor{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    position: relative;
+    bottom: 50px;
+    left: 15px
+    
+}
+#marayoor:hover{
+    text-decoration: underline;
+}
+.third-p{
+    font-size: 12px;
+    position: relative;
+    bottom: 45px;
+    line-height: 20px;
+}
+.third-p a{
+    text-decoration: none;
+    color: rgb(237 144 4);;
+
+}
+.third-p a:hover{
+    opacity: .5;
+}
+
+.more-attraction{
+    position: relative;
+    left: 50rem;
+    top: 1rem;
+    text-decoration: none;
+    color: rgb(237 144 4);
+}
+.more-attraction:hover{
+    opacity: .5;
+}
+
+.last-red{
+    font-size: 20px;
+    text-decoration: none;
+    color: red;
+    position: relative;
+    top: 75px;
+    right: 70px;
+}
+
+.right-side{
+    width: 413px;
+    height: 1898px;
+    background-color: #ffffff;
+    position: relative;
+    left: 64rem;
+    bottom: 98rem;
+}
+
+.right-side-first{
+    width: 148px;
+    height: 84px;
+    background-color: lightseagreen;
+}
+.right-side-form{
+    position: relative;
+    bottom: -10px;
+}
+.quick{
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    height: 25px;
+    font-size: 12px;
+    color: white;
+    background-color: green;
+}
+.main-button{
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    height: 25px;
+    font-size: 12px;
+    color: black;
+    background-color: #d1e190;
+}
+.form-start{
+    width: 360px;
+    height: 540px;
+    background-color: #f2f3f3;
+    border: ridge 2px;
+}
+.form-start{
+    font-size: 12px;
+}
+.form-start label{
+    font-weight: bold;
+}
+.start{
+    width: 370px;
+    height: 500px;
+    margin-left: 22px;
+    position: relative;
+    top: 22px;
+}
+.submit-form-button{
+    width: 300px;
+    position: relative;
+    top: 200px;
+    left: 5px;
+    font-weight: bold;
+    background-color: green;
+    border-radius: 4px
+}
+.right-side-third{
+    position: relative;
+    top: 10px  ;
+}
+#Birds{
+    color: #e99004;
+    font-weight: 600;
+    font-size: 12px;
+    position: relative;
+    top: -50px;
+    left: 20px;
+    text-decoration: none;
+}
+#mu{
+    color: gray;
+    font-size: 11px;
+    position: relative;
+    top: -50px;
+    left: 95px
+}
+#footer-end{
+    background-color: #214038;
+    width: 96%;
+   height: 25rem;
+    position: relative;
+    left: 28px;
+    top: -43px;
+}
+#footer-end h3{
+    color: #6dc0ab;
+    font-size: 16px;
+    font-weight: 100;
+}
+.footer-full{
+    position: relative;
+    top: 30px;
+    left: 30px;
+    width: 1370px;
+    right: 30px;
+}
+.footer-one{
+    width: 300px;
+    height: 400px;
+}
+#contact-image{
+    width: 275px;
+    height: 130px;
+    position: relative;
+    top: 10px;
+    right: 15px;
+}
+.logos{
+    position: relative;
+    left: 11px;
+    top: 40px;
+    display: flex;
+}
+.twitter,.pintrest{
+    margin-left: 15px;
+}
+.main-links{
+    width: 300px;
+    height: 330px;
+}
+#tick-icon{
+    color: green;
+    font-size: 12px;
+    margin-top: 15px;
+}
+#main-con{
+    text-decoration: none;
+    color: #4c8576;
+    font-size: 12px;
+    margin-left: 10px;
+
+}
+#main-con:hover{
+    color: #e2bb56;
+}
+.footer-full{
+    display: flex;
+    margin-left: 20px;
+    position: relative;
+    left: 75px;
+}
+.div-last-one{
+    background-color: #152c26;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    bottom: 12px;
+}
+#copy-right{
+    font-size: 12px;
+    color: white;
+    width: 320px;
+    position: relative;
+    top: 15px;
+    left: 25px;
+
+}
+#copy-right a{
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
